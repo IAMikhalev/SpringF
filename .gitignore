@@ -1,2 +1,5 @@
 # Project exclude paths
 /target/
+spring-mvc/.idea/
+
+spring-mvc/target/
